@@ -1,0 +1,5 @@
+- name: "Parse yaml key using ansible"
+  lookup_yaml:
+    local_filename: "../filepath"
+    lookup_yaml_key: "yaml_key"
+  register: result

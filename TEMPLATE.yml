@@ -1,0 +1,13 @@
+---
+template_version: 1
+
+enabled: null
+
+yaml_key:
+  name: null
+
+  login:
+    - secret: null
+      subsecret: null
+
+
